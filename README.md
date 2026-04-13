@@ -120,10 +120,6 @@ Pro2Assignment/
         └── VinylAddViewModel.java
 ```
 
-There are **no** Maven `pom.xml` or Gradle build scripts in this repository.
-
----
-
 ## Technologies
 
 - **Java**: project metadata in **`.idea/misc.xml`** targets **JDK 21** (`languageLevel="JDK_21"`, `project-jdk-name="liberica-21"`).
@@ -190,6 +186,4 @@ Because there is no committed Maven/Gradle classpath, **exact command-line `java
 
 ---
 
-## Author
 
-**Your name / VIA email / group number** — *replace this line before publishing.*
